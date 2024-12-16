@@ -8,7 +8,7 @@
             {
                 if (Math.Pow(a, n) + Math.Pow(b, n) == Math.Pow(c, n))
                 {
-                    Console.WriteLine($"Существует целое решение для {a}^{n} + {b}^{n} = {c}^{n}");
+                    Console.WriteLine($"Существует целое решение для {a}^{n} + {b}^{n} = {c}^{n}")
                 }
                 else
                 {
