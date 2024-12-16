@@ -1,0 +1,14 @@
+C:\Chic-Trio\ChicTrio\bin\Debug\net7.0\ChicTrio.exe
+C:\Chic-Trio\ChicTrio\bin\Debug\net7.0\ChicTrio.deps.json
+C:\Chic-Trio\ChicTrio\bin\Debug\net7.0\ChicTrio.runtimeconfig.json
+C:\Chic-Trio\ChicTrio\bin\Debug\net7.0\ChicTrio.dll
+C:\Chic-Trio\ChicTrio\bin\Debug\net7.0\ChicTrio.pdb
+C:\Chic-Trio\ChicTrio\obj\Debug\net7.0\ChicTrio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Chic-Trio\ChicTrio\obj\Debug\net7.0\ChicTrio.AssemblyInfoInputs.cache
+C:\Chic-Trio\ChicTrio\obj\Debug\net7.0\ChicTrio.AssemblyInfo.cs
+C:\Chic-Trio\ChicTrio\obj\Debug\net7.0\ChicTrio.csproj.CoreCompileInputs.cache
+C:\Chic-Trio\ChicTrio\obj\Debug\net7.0\ChicTrio.dll
+C:\Chic-Trio\ChicTrio\obj\Debug\net7.0\refint\ChicTrio.dll
+C:\Chic-Trio\ChicTrio\obj\Debug\net7.0\ChicTrio.pdb
+C:\Chic-Trio\ChicTrio\obj\Debug\net7.0\ChicTrio.genruntimeconfig.cache
+C:\Chic-Trio\ChicTrio\obj\Debug\net7.0\ref\ChicTrio.dll
