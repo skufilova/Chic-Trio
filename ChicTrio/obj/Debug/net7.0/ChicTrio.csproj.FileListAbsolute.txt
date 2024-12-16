@@ -12,3 +12,4 @@ C:\Chic-Trio\ChicTrio\obj\Debug\net7.0\refint\ChicTrio.dll
 C:\Chic-Trio\ChicTrio\obj\Debug\net7.0\ChicTrio.pdb
 C:\Chic-Trio\ChicTrio\obj\Debug\net7.0\ChicTrio.genruntimeconfig.cache
 C:\Chic-Trio\ChicTrio\obj\Debug\net7.0\ref\ChicTrio.dll
+C:\Chic-Trio\ChicTrio\bin\Debug\net7.0\Program.cs
